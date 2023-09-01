@@ -1,0 +1,123 @@
+* {
+    text-transform: none;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    line-height: 1.65em;
+}
+header {
+    background-color:black;
+    max-width: 32em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #25a2c3;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.div {
+    color:#393d41;
+}
+    
+
+header div img {
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.logo {
+    background-image:url("../images/banner.jpg");
+    background-repeat: no-repeat;    
+    padding-bottom:2em;
+    background-size: cover;
+}
+
+.logo h1 {
+    padding-top: 1.5em;
+    padding-bottom: 0.5em;
+    font-size: 2.1em;
+    font-weight: bold;
+}
+
+
+.logo p {
+    line-height: 1.5em;
+    margin-left: 1.2em;
+    margin-right: 1.2em;
+    font-size: 1.2em;
+    color:#393d41;
+}
+
+.logo span {
+    display: inline-block;
+    border: 2px solid orangered;
+    font-weight: 800;
+    color: white;
+    background-color: orangered;
+    padding: 0.5em;
+    padding-left: -1.5em;
+    padding-right: -2.5em;
+    border-radius: 4px;
+    margin-top: 2em;
+}
+
+main {
+    font-size: 1.2em;
+    text-align:center;
+    max-width: 26.8em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container1 {
+    max-width: 32em;
+    text-align: center;
+}
+
+.container1 h1 {
+    font-size: 1.2em;
+    color: #25a2c3;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container1 span {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.container1 span img {
+    border-radius: 19em;
+    width: 17em;
+}
+
+.container1 .bannerred {
+    background-color: red;
+    color:white;
+    padding-top: 2em;
+    padding-bottom: 5em;
+}
+
+.container1 .bannerred h1 {
+    color:white
+}
+
+.container1 .bannerred h2 {
+    margin-top: 2em;
+}
+.container1 .bannerred h3 {
+    font-size: 0.7em;
+}
+
+.container1 .span1 img {
+    padding-top: 3em;
+    width: 26.5em;
+}
+
+.container1 .span2 img {
+    
+    width: 26.8em;
+}
